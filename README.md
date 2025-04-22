@@ -10,6 +10,8 @@ Olist CS analysis.ipynb – EDA (Exploratory Data Analysis) notebook that explor
 
 CLASSIFICATION ML FOR COMMENTS.ipynb – Machine learning classification of customer review comments into issue categories.
 
+Visualization and deep analysis were done in Power BI [Link](https://drive.google.com/file/d/1eDVbDtsrMcx0evTLduDNOVbBaIVwlWFH/view?usp=sharing)
+
 ## Objectives
 - Understand the distribution and impact of customer ratings.
 
